@@ -1,1 +1,0 @@
-Medical,Health,Disease Outbreak,COVID,Covid19,Health,Disease	
