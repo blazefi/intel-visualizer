@@ -565,8 +565,8 @@ def main():
             img = load_image(image_file)
 
             st.image(img)
-            #ocr_text = azure_ocr(image_file)
-            ocr_text = ocr_core(img)
+            ocr_text = azure_ocr(image_file)
+            #ocr_text = ocr_core(img)
 
             st.write(ocr_text)
 
