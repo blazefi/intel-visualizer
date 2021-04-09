@@ -1,0 +1,1 @@
+Infrastructure Risk,Infrastruture,Chemical,Infrastructure outage,Wildfire,Electricity Outage,Telecommunications,Internet outage,Hazmat,Fire,Residential Fire,Radioactive,Avalanche,Landslide,Subsidence,Utility,storm,flood,cyclone,gas leak
