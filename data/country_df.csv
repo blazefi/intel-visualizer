@@ -1,0 +1,1825 @@
+country,month,Civil Unrest,Security Risk,Crime Risk,Travel Risk,Terrorism Risk,Infrastructure Risk,Political Risk,Institutional Risk,Kidnap Risk,Medical Risk,severity,level,importance,iso_alpha,iso_num
+albania,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+albania,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ALB,8
+algeria,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,june,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,DZA,12
+algeria,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+algeria,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DZA,12
+angola,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+angola,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AGO,24
+argentina,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+argentina,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ARG,32
+armenia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+armenia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+aruba,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+australia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+australia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUS,36
+austria,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+austria,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,AUT,40
+azerbaijan,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,february,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,-1,-1
+azerbaijan,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+azerbaijan,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,february,0,0,1,0,1,0,0,0,0,0,2,0.0,1.0,-1,-1
+bahamas,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahamas,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bahrain,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,february,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bahrain,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BHR,48
+bangladesh,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+bangladesh,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGD,50
+barbados,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+barbados,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belarus,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+belgium,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+belgium,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BEL,56
+bermuda,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bermuda,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bolivia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bolivia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BOL,68
+bosnia and herzegovina,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+bosnia and herzegovina,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BIH,70
+botswana,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+botswana,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BWA,72
+brazil,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+brazil,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BRA,76
+british virgin islands,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+british virgin islands,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+brunei,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+bulgaria,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+bulgaria,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,BGR,100
+cambodia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,february,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,KHM,116
+cambodia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cambodia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KHM,116
+cameroon,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+cameroon,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CMR,120
+canada,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+canada,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CAN,124
+cayman islands,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cayman islands,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+chad,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+chad,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TCD,148
+channel islands,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+channel islands,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+chile,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,june,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,CHL,152
+chile,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+chile,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHL,152
+china,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+china,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHN,156
+colombia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+colombia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,COL,170
+congo,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+congo,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+costa rica,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+costa rica,october,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,CRI,188
+costa rica,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CRI,188
+croatia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+croatia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HRV,191
+curacao,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+curacao,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+cyprus,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+czech republic,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+czech republic,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CZE,203
+denmark,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+denmark,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DNK,208
+dominican republic,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dominican republic,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DOM,214
+dr congo,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+dr congo,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ecuador,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+ecuador,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ECU,218
+egypt,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+egypt,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,EGY,818
+el salvador,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+el salvador,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SLV,222
+equatorial guinea,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+equatorial guinea,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GNQ,226
+estonia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+estonia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+fiji,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+finland,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+finland,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FIN,246
+france,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+france,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,FRA,250
+gabon,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+gabon,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GAB,266
+georgia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+georgia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+germany,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,february,2,0,0,0,1,0,0,0,0,2,2,0.5,1.0,DEU,276
+germany,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+germany,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,DEU,276
+ghana,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+ghana,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GHA,288
+gibraltar,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+gibraltar,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+greece,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+greece,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GRC,300
+guam,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guam,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guatemala,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,february,6,6,0,0,0,0,6,6,0,6,0,0.0,0.0,GTM,320
+guatemala,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guatemala,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GTM,320
+guinea,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guinea,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GIN,324
+guyana,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+guyana,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+honduras,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+honduras,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HND,340
+hungary,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+hungary,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,HUN,348
+iceland,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+iceland,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISL,352
+india,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+india,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IND,356
+indonesia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+indonesia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IDN,360
+iraq,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+iraq,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRQ,368
+ireland,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+ireland,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,IRL,372
+isle of man,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+isle of man,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+israel,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+israel,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ISR,376
+italy,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+italy,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ITA,380
+ivory coast,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ivory coast,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+jamaica,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+jamaica,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JAM,388
+japan,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+japan,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JPN,392
+jordan,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+jordan,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,JOR,400
+kazakhstan,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kazakhstan,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kenya,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+kenya,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KEN,404
+korea,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+korea,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kuwait,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kuwait,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,KWT,414
+kyrgyzstan,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+kyrgyzstan,october,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,-1,-1
+kyrgyzstan,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lao people's democratic rep,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+latvia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lebanon,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,december,2,0,0,0,0,0,2,0,0,0,0,1.0,0.0,LBN,422
+lebanon,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBN,422
+lebanon,september,1,1,0,0,1,0,1,1,0,1,3,0.0,1.0,LBN,422
+libya,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+libya,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LBY,434
+liechtenstein,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+liechtenstein,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+lithuania,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+luxembourg,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+macedonia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+madagascar,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,june,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,MDG,450
+madagascar,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+madagascar,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MDG,450
+malawi,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malawi,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MWI,454
+malaysia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+malaysia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MYS,458
+maldives,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+maldives,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+malta,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+mauritius,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mauritius,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MUS,480
+mexico,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+mexico,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MEX,484
+moldova,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+moldova,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+monaco,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+mongolia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+mongolia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNG,496
+montenegro,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+montenegro,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MNE,499
+morocco,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,february,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,MAR,504
+morocco,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+morocco,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MAR,504
+mozambique,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+mozambique,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MOZ,508
+myanmar,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+myanmar,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,MMR,104
+namibia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+namibia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NAM,516
+netherlands,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+netherlands,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NLD,528
+new zealand,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+new zealand,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NZL,554
+nicaragua,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nicaragua,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NIC,558
+nigeria,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,february,0,0,0,0,0,0,0,0,3,0,0,0.0,0.0,NGA,566
+nigeria,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+nigeria,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NGA,566
+northern mariana islands,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+northern mariana islands,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+norway,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+norway,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,NOR,578
+oman,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+oman,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,OMN,512
+pakistan,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,february,0,2,2,0,2,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+pakistan,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAK,586
+palestinian authority,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+palestinian authority,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+panama,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+panama,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PAN,591
+papua new guinea,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+papua new guinea,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+paraguay,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+paraguay,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRY,600
+peru,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,november,1,0,0,0,0,0,1,0,0,0,0,1.0,0.0,PER,604
+peru,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+peru,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PER,604
+philippines,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+philippines,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PHL,608
+poland,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+poland,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,POL,616
+portugal,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+portugal,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,PRT,620
+qatar,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+qatar,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+romania,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+romania,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ROU,642
+russia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+russia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+rwanda,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+rwanda,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,RWA,646
+saint lucia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saint lucia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+saudi arabia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+saudi arabia,october,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,SAU,682
+saudi arabia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SAU,682
+senegal,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+senegal,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SEN,686
+serbia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+serbia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SRB,688
+singapore,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,february,0,0,0,0,0,0,0,2,0,2,0,0.0,0.0,SGP,702
+singapore,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+singapore,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SGP,702
+slovakia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovakia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+slovenia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+slovenia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SVN,705
+south africa,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+south africa,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZAF,710
+spain,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,february,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,ESP,724
+spain,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+spain,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ESP,724
+sri lanka,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+sri lanka,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,LKA,144
+suriname,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+suriname,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+sweden,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+sweden,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SWE,752
+switzerland,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+switzerland,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,CHE,756
+syria,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+syria,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,SYR,760
+taiwan,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+taiwan,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TWN,158
+tanzania,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+tanzania,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TZA,834
+thailand,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+thailand,october,0,0,0,5,0,0,0,0,0,0,0,0.0,1.5,THA,764
+thailand,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,THA,764
+trinidad and tobago,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+trinidad and tobago,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TTO,780
+tunisia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+tunisia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUN,788
+turkey,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,june,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,TUR,792
+turkey,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+turkey,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,TUR,792
+uganda,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+uganda,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,UGA,800
+ukraine,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+ukraine,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united arab emirates,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+united kingdom,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united kingdom,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,GBR,826
+united states,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,november,2,2,2,0,2,0,2,0,0,0,6,0.0,2.0,USA,840
+united states,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+united states,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,USA,840
+uruguay,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uruguay,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,URY,858
+uzbekistan,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+uzbekistan,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,-1
+venezuela,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+venezuela,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VEN,862
+vietnam,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+vietnam,october,1,0,0,0,0,0,0,0,0,0,1,1.0,1.0,VNM,704
+vietnam,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,VNM,704
+zambia,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zambia,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZMB,894
+zimbabwe,april,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,august,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,december,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,february,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,january,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,july,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,june,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,march,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,may,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,november,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,october,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
+zimbabwe,september,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,ZWE,716
