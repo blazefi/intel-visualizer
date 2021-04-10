@@ -15,8 +15,6 @@ import sys
 import pickle
 import requests
 
-# for ocr
-import pytesseract
 # File Processing Pkgs
 import pdfplumber
 
